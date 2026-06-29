@@ -18,4 +18,5 @@
 tmp
 /issues/
 *.iso
+*.qcow2
 path-to.vmx

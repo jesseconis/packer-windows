@@ -1,7 +1,7 @@
 {
   "builders": [
     {
-      "accelerator": "kvm",
+      "accelerator": "tcg",
       "boot_wait": "0s",
       "communicator": "winrm",
       "cpus": 2,
